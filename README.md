@@ -143,8 +143,7 @@ Make sure the repository is public before deploying.
 GitHub Repository: 
 https://github.com/prashansha-31/FlaskAuthApp
 Live Deployment (Render):  
-(Add your Render link here after deployment)
-
+https://flask-auth-app-1gma.onrender.com
 ---
 
 ## 👩‍💻 Submitted By
