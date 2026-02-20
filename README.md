@@ -108,7 +108,7 @@ FlaskAuthApp/
 
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/YOUR_USERNAME/FlaskAuthApp.git  
+git clone hhttps://github.com/prashansha-31/FlaskAuthApp.git 
 cd FlaskAuthApp  
 
 ### 2️⃣ Install Dependencies
@@ -140,8 +140,8 @@ Make sure the repository is public before deploying.
 
 ## 🔗 Project Links
 
-GitHub Repository:  
-https://github.com/prashansha-31/FlaskAuth_App
+GitHub Repository: 
+https://github.com/prashansha-31/FlaskAuthApp
 Live Deployment (Render):  
 (Add your Render link here after deployment)
 
